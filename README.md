@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohit Mishra
-- 👀 I’m interested in Freelancing work and Learning Hacking.
-- 🌱 I’m currently learning wordpress and after that I will learn Ethical Hacking.
-- 💞️ I’m looking to collaborate on python, php, react, node.
+- 👀 I’m working as software developer, web developer and freelancing as well.
+- 🌱 I’m currently work on Data Analytics, Data Engineering, Machine Learning.
+- 💞️ My Experties in Python, Node, ReactJs, Php.
 - 📫 How to reach me from @MohitMishraFalna and mohitmishra.falna850@gmail.com
-
