@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mohit Mishra
 - 👀 I’m working as software developer, web developer and freelancing as well.
-- 🌱 I’m currently learing Data Analytics, Data Engineering, Machine Learning and I want to become Data Scientiest.
-- 💞️ My Experties in Python, Node, ReactJs, Php.
-- 📫 How to reach me from @MohitMishraFalna and mohitmishra.falna850@gmail.com
+- 💞️ My Experties in Python, Php, Node, ReactJs, NextJS, ReactNative, Angular.
+- 📫 How to reach me from @MohitMishraFalna
